@@ -8,7 +8,7 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information about adapters.
 		adapter: adapter(),
 		paths: {
-            base: process.env.NODE_ENV === 'production' ? '/https://sebastian34e.github.io/EstradaCatering' : '',
+            // base: process.env.NODE_ENV === 'production' ? '/https://sebastian34e.github.io/EstradaCatering' : '',
         }
 	}
 };
